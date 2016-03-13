@@ -11,6 +11,7 @@ namespace MyBot
 
         public void DoTurn(IPirateGame game)
         {
+            //this is not real code just example
 
             if (game.GetTurn() == 1)
             {
