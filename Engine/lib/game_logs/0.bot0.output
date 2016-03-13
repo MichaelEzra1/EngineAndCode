@@ -1,0 +1,866 @@
+# turn 1
+o 25 3 s
+# turn 2
+o 23 1 nnnnn
+o 24 2 n
+# turn 3
+o 18 1 nnnnn
+o 23 2 n
+# turn 4
+o 13 1 nnnee
+o 22 2 n
+# turn 5
+o 10 3 eeeee
+o 21 2 n
+# turn 6
+o 10 8 eeeee
+o 20 2 e
+# turn 7
+o 10 13 eee
+o 20 3 e
+# turn 8
+o 10 16 s
+o 20 4 e
+# turn 9
+o 11 16 s
+o 20 5 e
+# turn 10
+o 12 16 s
+o 20 6 e
+# turn 11
+o 13 16 s
+o 20 7 e
+# turn 12
+o 14 16 s
+o 20 8 e
+# turn 13
+o 15 16 s
+o 20 9 e
+# turn 14
+o 16 16 s
+o 20 10 e
+# turn 15
+o 17 16 s
+o 20 11 e
+# turn 16
+o 18 16 s
+o 20 12 e
+# turn 17
+o 19 16 s
+o 20 13 e
+# turn 18
+o 20 16 s
+o 20 14 e
+# turn 19
+o 21 16 s
+o 20 15 e
+# turn 20
+o 22 16 s
+o 20 16 e
+# turn 21
+o 23 16 w
+o 20 17 e
+# turn 22
+o 23 15 w
+o 20 18 e
+# turn 23
+o 23 14 w
+o 20 19 e
+# turn 24
+o 23 13 w
+o 20 20 e
+# turn 25
+o 23 12 w
+o 20 21 e
+# turn 26
+o 23 11 w
+o 20 22 e
+# turn 27
+o 23 10 w
+o 20 23 e
+# turn 28
+o 23 9 w
+o 20 24 e
+# turn 29
+o 23 8 w
+o 20 25 e
+# turn 30
+o 23 7 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 31
+o 23 6 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 32
+o 23 5 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 33
+o 23 4 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 34
+o 23 3 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 35
+o 23 2 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 36
+o 23 1 nnnnn
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 37
+o 18 1 nnnnn
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 38
+o 13 1 neeee
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 39
+o 12 5 eeeee
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 40
+o 12 10 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 41
+o 13 10 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 42
+o 14 10 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 43
+o 15 10 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 44
+o 16 10 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 45
+o 17 10 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 46
+o 18 10 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 47
+o 19 10 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 48
+o 20 10 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 49
+o 21 10 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 50
+o 22 10 s
+o 20 26 a0
+# turn 51
+o 23 10 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 52
+o 23 9 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 53
+o 23 8 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 54
+o 23 7 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 55
+o 23 6 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 56
+o 23 5 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 57
+o 23 4 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 58
+o 23 3 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 59
+o 23 2 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 60
+o 23 1 nnnnn
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 61
+o 18 1 nnnnn
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 62
+o 13 1 neeee
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 63
+o 12 5 eeeee
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 64
+o 12 10 eeeee
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 65
+o 12 15 eeeee
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 66
+o 12 20 ee
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 67
+o 12 22 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 68
+o 13 22 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 69
+o 14 22 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 70
+o 15 22 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 71
+o 16 22 s
+The order: 'o 20 26 a0' was ignored # Attack ignored - pirate ship is reloading
+# turn 72
+o 17 22 s
+The order: 'o 20 26 a0' was ignored # Attack ignored - pirate ship is reloading
+# turn 73
+o 18 22 s
+The order: 'o 20 26 a0' was ignored # Attack ignored - pirate ship is reloading
+# turn 74
+o 19 22 s
+The order: 'o 20 26 a0' was ignored # Attack ignored - pirate ship is reloading
+# turn 75
+o 20 22 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 76
+o 21 22 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 77
+o 22 22 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 78
+o 23 22 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 79
+o 23 21 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 80
+o 23 20 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 81
+o 23 19 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 82
+o 23 18 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 83
+o 23 17 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 84
+o 23 16 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 85
+o 23 15 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 86
+o 23 14 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 87
+o 23 13 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 88
+o 23 12 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 89
+o 23 11 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 90
+o 23 10 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 91
+o 23 9 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 92
+o 23 8 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 93
+o 23 7 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 94
+o 23 6 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 95
+o 23 5 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 96
+o 23 4 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 97
+o 23 3 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 98
+o 23 2 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 99
+o 23 1 nnnnn
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 100
+o 18 1 nnnnn
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 101
+o 13 1 eeeee
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 102
+o 13 6 eeeee
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 103
+o 13 11 eeeee
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 104
+o 13 16 ee
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 105
+o 13 18 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 106
+o 14 18 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 107
+o 15 18 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 108
+o 16 18 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 109
+o 17 18 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 110
+o 18 18 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 111
+o 19 18 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 112
+o 20 18 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 113
+o 21 18 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 114
+o 22 18 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 115
+o 23 18 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 116
+o 23 17 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 117
+o 23 16 w
+o 20 26 a0
+# turn 118
+o 23 15 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 119
+o 23 14 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 120
+o 23 13 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 121
+o 23 12 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 122
+o 23 11 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 123
+o 23 10 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 124
+o 23 9 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 125
+o 23 8 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 126
+o 23 7 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 127
+o 23 6 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 128
+o 23 5 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 129
+o 23 4 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 130
+o 23 3 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 131
+o 23 2 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 132
+o 23 1 nnnnn
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 133
+o 18 1 nnnnn
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 134
+o 13 1 eeeee
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 135
+o 13 6 eeeee
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 136
+o 13 11 eee
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 137
+o 13 14 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 138
+o 14 14 s
+The order: 'o 20 26 a0' was ignored # Attack ignored - pirate ship is reloading
+# turn 139
+o 15 14 s
+The order: 'o 20 26 a0' was ignored # Attack ignored - pirate ship is reloading
+# turn 140
+o 16 14 s
+The order: 'o 20 26 a0' was ignored # Attack ignored - pirate ship is reloading
+# turn 141
+o 17 14 s
+The order: 'o 20 26 a0' was ignored # Attack ignored - pirate ship is reloading
+# turn 142
+o 18 14 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 143
+o 19 14 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 144
+o 20 14 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 145
+o 21 14 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 146
+o 22 14 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 147
+o 23 14 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 148
+o 23 13 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 149
+o 23 12 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 150
+o 23 11 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 151
+o 23 10 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 152
+o 23 9 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 153
+o 23 8 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 154
+o 23 7 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 155
+o 23 6 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 156
+o 23 5 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 157
+o 23 4 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 158
+o 23 3 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 159
+o 23 2 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 160
+o 23 1 nnnnn
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 161
+o 18 1 nnnee
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 162
+o 15 3 eeeee
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 163
+o 15 8 eeeee
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 164
+o 15 13 eeeee
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 165
+o 15 18 eee
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 166
+o 15 21 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 167
+o 16 21 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 168
+o 17 21 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 169
+o 18 21 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 170
+o 19 21 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 171
+o 20 21 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 172
+o 21 21 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 173
+o 22 21 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 174
+o 23 21 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 175
+o 23 20 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 176
+o 23 19 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 177
+o 23 18 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 178
+o 23 17 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 179
+o 23 16 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 180
+o 23 15 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 181
+o 23 14 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 182
+o 23 13 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 183
+o 23 12 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 184
+o 23 11 w
+o 20 26 a0
+# turn 185
+o 23 10 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 186
+o 23 9 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 187
+o 23 8 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 188
+o 23 7 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 189
+o 23 6 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 190
+o 23 5 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 191
+o 23 4 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 192
+o 23 3 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 193
+o 23 2 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 194
+o 23 1 nnnnn
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 195
+o 18 1 nnnee
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 196
+o 15 3 eeeee
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 197
+o 15 8 eee
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 198
+o 15 11 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 199
+o 16 11 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 200
+o 17 11 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 201
+o 18 11 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 202
+o 19 11 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 203
+o 20 11 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 204
+o 21 11 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 205
+o 22 11 s
+The order: 'o 20 26 a0' was ignored # Attack ignored - pirate ship is reloading
+# turn 206
+o 23 11 w
+The order: 'o 20 26 a0' was ignored # Attack ignored - pirate ship is reloading
+# turn 207
+o 23 10 w
+The order: 'o 20 26 a0' was ignored # Attack ignored - pirate ship is reloading
+# turn 208
+o 23 9 w
+The order: 'o 20 26 a0' was ignored # Attack ignored - pirate ship is reloading
+# turn 209
+o 23 8 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 210
+o 23 7 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 211
+o 23 6 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 212
+o 23 5 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 213
+o 23 4 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 214
+o 23 3 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 215
+o 23 2 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 216
+o 23 1 nnnnn
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 217
+o 18 1 neeee
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 218
+o 17 5 eeeee
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 219
+o 17 10 eee
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 220
+o 17 13 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 221
+o 18 13 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 222
+o 19 13 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 223
+o 20 13 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 224
+o 21 13 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 225
+o 22 13 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 226
+o 23 13 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 227
+o 23 12 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 228
+o 23 11 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 229
+o 23 10 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 230
+o 23 9 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 231
+o 23 8 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 232
+o 23 7 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 233
+o 23 6 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 234
+o 23 5 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 235
+o 23 4 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 236
+o 23 3 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 237
+o 23 2 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 238
+o 23 1 nnnne
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 239
+o 19 2 eeeee
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 240
+o 19 7 eeeee
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 241
+o 19 12 eeee
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 242
+o 19 16 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 243
+o 20 16 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 244
+o 21 16 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 245
+o 22 16 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 246
+o 23 16 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 247
+o 23 15 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 248
+o 23 14 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 249
+o 23 13 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 250
+o 23 12 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 251
+o 23 11 w
+o 20 26 a0
+# turn 252
+o 23 10 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 253
+o 23 9 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 254
+o 23 8 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 255
+o 23 7 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 256
+o 23 6 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 257
+o 23 5 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 258
+o 23 4 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 259
+o 23 3 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 260
+o 23 2 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 261
+o 23 1 nnnnn
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 262
+o 18 1 neeee
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 263
+o 17 5 eeeee
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 264
+o 17 10 eeeee
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 265
+o 17 15 eeee
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 266
+o 17 19 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 267
+o 18 19 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 268
+o 19 19 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 269
+o 20 19 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 270
+o 21 19 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 271
+o 22 19 s
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 272
+o 23 19 w
+The order: 'o 20 26 a0' was ignored # Attack ignored - pirate ship is reloading
+# turn 273
+o 23 18 w
+The order: 'o 20 26 a0' was ignored # Attack ignored - pirate ship is reloading
+# turn 274
+o 23 17 w
+The order: 'o 20 26 a0' was ignored # Attack ignored - pirate ship is reloading
+# turn 275
+o 23 16 w
+The order: 'o 20 26 a0' was ignored # Attack ignored - pirate ship is reloading
+# turn 276
+o 23 15 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 277
+o 23 14 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 278
+o 23 13 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 279
+o 23 12 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 280
+o 23 11 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 281
+o 23 10 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 282
+o 23 9 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 283
+o 23 8 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 284
+o 23 7 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 285
+o 23 6 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 286
+o 23 5 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 287
+o 23 4 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 288
+o 23 3 w
+The order: 'o 20 26 -' is invalid # invalid directions
+# turn 289
+o 23 2 w
+The order: 'o 20 26 -' is invalid # invalid directions

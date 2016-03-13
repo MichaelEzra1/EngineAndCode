@@ -1,0 +1,578 @@
+# turn 1
+o 23 31 nn
+# turn 2
+o 21 31 nn
+# turn 3
+o 19 31 nn
+# turn 4
+o 17 31 nn
+# turn 5
+o 15 31 nn
+# turn 6
+o 13 31 nn
+# turn 7
+o 11 31 nn
+# turn 8
+o 9 31 nn
+# turn 9
+o 7 31 nn
+# turn 10
+o 5 31 nn
+# turn 11
+o 3 31 nn
+# turn 12
+o 1 31 ww
+# turn 13
+o 1 29 ww
+# turn 14
+o 1 27 ww
+# turn 15
+o 1 25 ww
+# turn 16
+o 1 23 ww
+# turn 17
+o 1 21 ww
+# turn 18
+o 1 19 ww
+# turn 19
+o 1 17 w
+# turn 20
+o 1 16 s
+# turn 21
+o 2 16 s
+# turn 22
+o 3 16 s
+# turn 23
+o 4 16 s
+# turn 24
+o 5 16 s
+# turn 25
+o 6 16 s
+# turn 26
+o 7 16 s
+# turn 27
+o 8 16 s
+# turn 28
+o 9 16 s
+# turn 29
+o 10 16 s
+# turn 30
+o 11 16 s
+# turn 31
+o 12 16 s
+# turn 32
+o 13 16 s
+# turn 33
+o 14 16 s
+# turn 34
+o 15 16 s
+# turn 35
+o 16 16 s
+# turn 36
+o 17 16 s
+# turn 37
+o 18 16 s
+# turn 38
+o 19 16 s
+# turn 39
+o 20 16 s
+# turn 40
+o 21 16 s
+# turn 41
+o 22 16 s
+# turn 42
+o 23 16 e
+# turn 43
+o 23 17 e
+# turn 44
+o 23 18 e
+# turn 45
+o 23 19 e
+# turn 46
+o 23 20 e
+# turn 47
+o 23 21 e
+# turn 48
+o 23 22 e
+# turn 49
+o 23 23 e
+# turn 50
+o 23 24 e
+# turn 51
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 52
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 53
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 54
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 55
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 56
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 57
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 58
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 59
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 60
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 61
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 62
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 63
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 64
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 65
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 66
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 67
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 68
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 69
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 70
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 71
+o 23 25 nn
+# turn 72
+o 21 25 nn
+# turn 73
+o 19 25 nn
+# turn 74
+o 17 25 nn
+# turn 75
+o 15 25 nn
+# turn 76
+o 13 25 nn
+# turn 77
+o 11 25 nn
+# turn 78
+o 9 25 nn
+# turn 79
+o 7 25 nn
+# turn 80
+o 5 25 nn
+# turn 81
+o 3 25 nn
+# turn 82
+o 1 25 ww
+# turn 83
+o 1 23 ww
+# turn 84
+o 1 21 ww
+# turn 85
+o 1 19 ww
+# turn 86
+o 1 17 w
+# turn 87
+o 1 16 s
+# turn 88
+o 2 16 s
+# turn 89
+o 3 16 s
+# turn 90
+o 4 16 s
+# turn 91
+o 5 16 s
+# turn 92
+o 6 16 s
+# turn 93
+o 7 16 s
+# turn 94
+o 8 16 s
+# turn 95
+o 9 16 s
+# turn 96
+o 10 16 s
+# turn 97
+o 11 16 s
+# turn 98
+o 12 16 s
+# turn 99
+o 13 16 s
+# turn 100
+o 14 16 s
+# turn 101
+o 15 16 s
+# turn 102
+o 16 16 s
+# turn 103
+o 17 16 s
+# turn 104
+o 18 16 s
+# turn 105
+o 19 16 s
+# turn 106
+o 20 16 s
+# turn 107
+o 21 16 s
+# turn 108
+o 22 16 s
+# turn 109
+o 23 16 e
+# turn 110
+o 23 17 e
+# turn 111
+o 23 18 e
+# turn 112
+o 23 19 e
+# turn 113
+o 23 20 e
+# turn 114
+o 23 21 e
+# turn 115
+o 23 22 e
+# turn 116
+o 23 23 e
+# turn 117
+o 23 24 e
+# turn 118
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 119
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 120
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 121
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 122
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 123
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 124
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 125
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 126
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 127
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 128
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 129
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 130
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 131
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 132
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 133
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 134
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 135
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 136
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 137
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 138
+o 23 25 nn
+# turn 139
+o 21 25 nn
+# turn 140
+o 19 25 nn
+# turn 141
+o 17 25 nn
+# turn 142
+o 15 25 nn
+# turn 143
+o 13 25 nn
+# turn 144
+o 11 25 nn
+# turn 145
+o 9 25 nn
+# turn 146
+o 7 25 nn
+# turn 147
+o 5 25 nn
+# turn 148
+o 3 25 nn
+# turn 149
+o 1 25 ww
+# turn 150
+o 1 23 ww
+# turn 151
+o 1 21 ww
+# turn 152
+o 1 19 ww
+# turn 153
+o 1 17 w
+# turn 154
+o 1 16 s
+# turn 155
+o 2 16 s
+# turn 156
+o 3 16 s
+# turn 157
+o 4 16 s
+# turn 158
+o 5 16 s
+# turn 159
+o 6 16 s
+# turn 160
+o 7 16 s
+# turn 161
+o 8 16 s
+# turn 162
+o 9 16 s
+# turn 163
+o 10 16 s
+# turn 164
+o 11 16 s
+# turn 165
+o 12 16 s
+# turn 166
+o 13 16 s
+# turn 167
+o 14 16 s
+# turn 168
+o 15 16 s
+# turn 169
+o 16 16 s
+# turn 170
+o 17 16 s
+# turn 171
+o 18 16 s
+# turn 172
+o 19 16 s
+# turn 173
+o 20 16 s
+# turn 174
+o 21 16 s
+# turn 175
+o 22 16 s
+# turn 176
+o 23 16 e
+# turn 177
+o 23 17 e
+# turn 178
+o 23 18 e
+# turn 179
+o 23 19 e
+# turn 180
+o 23 20 e
+# turn 181
+o 23 21 e
+# turn 182
+o 23 22 e
+# turn 183
+o 23 23 e
+# turn 184
+o 23 24 e
+# turn 185
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 186
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 187
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 188
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 189
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 190
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 191
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 192
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 193
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 194
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 195
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 196
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 197
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 198
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 199
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 200
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 201
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 202
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 203
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 204
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 205
+o 23 25 nn
+# turn 206
+o 21 25 nn
+# turn 207
+o 19 25 nn
+# turn 208
+o 17 25 nn
+# turn 209
+o 15 25 nn
+# turn 210
+o 13 25 nn
+# turn 211
+o 11 25 nn
+# turn 212
+o 9 25 nn
+# turn 213
+o 7 25 nn
+# turn 214
+o 5 25 nn
+# turn 215
+o 3 25 nn
+# turn 216
+o 1 25 ww
+# turn 217
+o 1 23 ww
+# turn 218
+o 1 21 ww
+# turn 219
+o 1 19 ww
+# turn 220
+o 1 17 w
+# turn 221
+o 1 16 s
+# turn 222
+o 2 16 s
+# turn 223
+o 3 16 s
+# turn 224
+o 4 16 s
+# turn 225
+o 5 16 s
+# turn 226
+o 6 16 s
+# turn 227
+o 7 16 s
+# turn 228
+o 8 16 s
+# turn 229
+o 9 16 s
+# turn 230
+o 10 16 s
+# turn 231
+o 11 16 s
+# turn 232
+o 12 16 s
+# turn 233
+o 13 16 s
+# turn 234
+o 14 16 s
+# turn 235
+o 15 16 s
+# turn 236
+o 16 16 s
+# turn 237
+o 17 16 s
+# turn 238
+o 18 16 s
+# turn 239
+o 19 16 s
+# turn 240
+o 20 16 s
+# turn 241
+o 21 16 s
+# turn 242
+o 22 16 s
+# turn 243
+o 23 16 e
+# turn 244
+o 23 17 e
+# turn 245
+o 23 18 e
+# turn 246
+o 23 19 e
+# turn 247
+o 23 20 e
+# turn 248
+o 23 21 e
+# turn 249
+o 23 22 e
+# turn 250
+o 23 23 e
+# turn 251
+o 23 24 e
+# turn 252
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 253
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 254
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 255
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 256
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 257
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 258
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 259
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 260
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 261
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 262
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 263
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 264
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 265
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 266
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 267
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 268
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 269
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 270
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 271
+The order: 'o 23 25 nn' is invalid # The pirate is drunk - can't do anything
+# turn 272
+o 23 25 nn
+# turn 273
+o 21 25 nn
+# turn 274
+o 19 25 nn
+# turn 275
+o 17 25 nn
+# turn 276
+o 15 25 nn
+# turn 277
+o 13 25 nn
+# turn 278
+o 11 25 nn
+# turn 279
+o 9 25 nn
+# turn 280
+o 7 25 nn
+# turn 281
+o 5 25 nn
+# turn 282
+o 3 25 nn
+# turn 283
+o 1 25 ww
+# turn 284
+o 1 23 ww
+# turn 285
+o 1 21 ww
+# turn 286
+o 1 19 ww
+# turn 287
+o 1 17 w
+# turn 288
+o 1 16 s
+# turn 289
+o 2 16 s

@@ -1,0 +1,6 @@
+C:\starter_kit\bots\csharp\ExampleBot\bin\Debug\ExampleBot.dll
+C:\starter_kit\bots\csharp\ExampleBot\bin\Debug\ExampleBot.pdb
+C:\starter_kit\bots\csharp\ExampleBot\bin\Debug\IPirateGame.dll
+C:\starter_kit\bots\csharp\ExampleBot\obj\Debug\ResolveAssemblyReference.cache
+C:\starter_kit\bots\csharp\ExampleBot\obj\Debug\ExampleBot.dll
+C:\starter_kit\bots\csharp\ExampleBot\obj\Debug\ExampleBot.pdb
